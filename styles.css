@@ -1,0 +1,27 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: #9acd32;
+    font-weight: 700;
+}
+
+body { background-color: #38817a;
+}
+
+.description {
+    color: #ffd944;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingredients {
+    color: #54447b;
+}
+
+.steps {
+    color: #94dd4d;
+}
+
+button {
+    background-color: greenyellow;
+}
+
